@@ -111,7 +111,7 @@ public class VIRTUAL_KEY_FOR_REPOSITORIES {
 	    public static void main(String[] args) {
 			
 	        System.out.println("**************************************** Welcome to LockedMe.com ****************************************");
-	        System.out.println("**************************************** This application is Developed by Riza ****************************************");
+	        System.out.println("**************************************** This application is Developed by sandeep ****************************************");
 	        System.out.println("choose anyone for the below options");
 	        boolean exit = false;
 	        while (!exit){
